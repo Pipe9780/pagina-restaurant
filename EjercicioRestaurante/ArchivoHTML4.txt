@@ -1,0 +1,22 @@
+<!-- Hoja 4-->
+        <div class="form-container">
+          <h2>Contact Us</h2>
+          <input type="text" placeholder="Your Name" />
+          <input type="email" placeholder="E-Mail" />
+          <textarea
+            cols="30"
+            rows="6"
+            placeholder="Type Your Message"
+          ></textarea>
+          <a href="#" class="btn btn-primary">Submit</a>
+        </div>
+      </div>
+    </section>
+    <footer id="footer">
+      <h2>Restraunt &copy; all rights reserved</h2>
+    </footer>
+  </body>
+  <!-- .................../ JS Code for smooth scrolling /...................... -->
+
+
+</html>
